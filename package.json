@@ -1,0 +1,16 @@
+{
+  "name": "tabs-to-accordion-css-only",
+  "version": "1.0.0",
+  "description": "Simple Tabs to Accordion CSS only",
+  "license": "-",
+  "author": "Indiorlei",
+  "repository":{
+    "type" : "GIT",
+    "url": "https://github.com/indiorlei/tabs-to-accordion-css-only"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-sass": "^2.0.4"
+  }
+}
